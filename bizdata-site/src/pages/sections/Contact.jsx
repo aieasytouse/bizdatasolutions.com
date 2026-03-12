@@ -8,7 +8,7 @@ const API_ENDPOINT = 'https://zluofjedy1.execute-api.us-east-1.amazonaws.com/Pro
 
 const contactDetails = [
   { Icon: Mail,   label: 'Email',    value: 'info@bizdatasolutions.com', href: 'mailto:info@bizdatasolutions.com' },
-  { Icon: Phone,  label: 'Phone',    value: '(617) 642-7271',            href: 'tel:6176427271' },
+  //{ Icon: Phone,  label: 'Phone',    value: '(617) 642-7271',            href: 'tel:6176427271' },
   //{ Icon: MapPin, label: 'Location', value: '850 Clark Street #1493, South Windsor, CT 06074', href: null },
 ]
 
